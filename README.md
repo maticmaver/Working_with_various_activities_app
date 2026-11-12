@@ -25,5 +25,5 @@ Aplikacija prikazuje osnovne koncepte Androidovega življenjskega cikla aktivnos
 - **Intent** – za komunikacijo med komponentami
 
 <img width="360" height="800" alt="Screenshot_20261112-174441_Working_with_various_activities_app" src="https://github.com/user-attachments/assets/e4b1c079-d0f1-4345-a28e-bdd4a29a1444" />
-<img width="360" height="800" alt="Screenshot_20261112-174457_Working_with_various_activities_app" src="https://github.com/user-attachments/assets/f8ca3d5c-01d8-4cef-bcb2-dd48c23298e7" />
 <img width="360" height="800" alt="Screenshot_20261112-174450_Working_with_various_activities_app" src="https://github.com/user-attachments/assets/d2a9b5b4-4c15-4f32-849f-bc8da1b2d467" />
+<img width="360" height="800" alt="Screenshot_20261112-174457_Working_with_various_activities_app" src="https://github.com/user-attachments/assets/f8ca3d5c-01d8-4cef-bcb2-dd48c23298e7" />
