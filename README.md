@@ -4,15 +4,6 @@ Aplikacija **Working with various activities** je preprosta Android aplikacija, 
 
 ---
 
-## 📋 Kazalo vsebine
-- [O aplikaciji](#o-aplikaciji)
-- [Ključne funkcije](#ključne-funkcije)
-- [Uporabniški vmesnik (Zaslonski posnetki)](#uporabniški-vmesnik-zaslonski-posnetki)
-- [Uporabljene tehnologije](#uporabljene-tehnologije)
-- [Namestitev in zagon](#namestitev-in-zagon)
-- [Avtor](#avtor)
-
----
 
 ## 📌 O aplikaciji
 Aplikacija prikazuje osnovne koncepte Androidovega življenjskega cikla aktivnosti in navigacije med njimi. Omogoča prehod iz začetnega zaslona na več različnih pod-aktivnosti (activity-jev) ter prenos podatkov med njimi.
